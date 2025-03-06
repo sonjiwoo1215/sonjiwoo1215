@@ -1,12 +1,12 @@
 ![reversal](https://capsule-render.vercel.app/api?height=150&type=venom&text=Sonjiwoo%20Github&fontAlign=center&fontSize=50&stroke=FF1493&desc=&descAlign=60&descAlignY=50&fontColor=000000)
 
-## 풀스택 개발자👋
+## Full-stack Developer👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonjiwoo1215&hide_progress=true)   ![Jiwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonjiwoo1215&hide=contribs,prs)
 
 <details open>
   <summary>
-  내가 써봤던 🔧
+  Experienced 🔧
   </summary>
   
   ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
@@ -22,7 +22,7 @@
 
 <details open>
   <summary>
-  내가 지금 배우는 🔥
+  Studying 🔥
   </summary>
   
   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -41,7 +41,7 @@
 
 <details open>
   <summary>
-  배우고 싶은 💫
+  Interested in 💫
   </summary>
   
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
